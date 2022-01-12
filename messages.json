@@ -1,7 +1,7 @@
 {
   "discord": {
-    "message": "Já pensou em inserir comentários em seu blog usando issues do Github? Sim, isso mesmo! Nesse post quero mostrar para você como usar as issues do Github para incluir uma área de comentários no seu blog!",
-    "url": "https://dev.arthurpedroti.com.br/comentarios-em-seu-blog-usando-issues-do-github/",
+    "message": "Queria testar alguns processos de instalação e configuração para o Ubuntu Server, mas não queria ter que criar uma máquina virtual nova, só queria ver se realmente não tinha nenhum detalhe que eu tinha esquecido, e pensei logo no docker, que poderia criar pra mim um container do Ubuntu bem rápido e fácil. É um post bem simples, mas que mostra alguns conceitos e detalhes da linha de comando do Docker que vale a pena saber.",
+    "url": "https://dev.arthurpedroti.com.br/criando-um-servidor-ubuntu-no-docker/",
     "hashtags": ""
   }
 }
