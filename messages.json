@@ -1,7 +1,7 @@
 {
   "discord": {
-    "message": "Queria testar alguns processos de instalação e configuração para o Ubuntu Server, mas não queria ter que criar uma máquina virtual nova, só queria ver se realmente não tinha nenhum detalhe que eu tinha esquecido, e pensei logo no docker, que poderia criar pra mim um container do Ubuntu bem rápido e fácil. É um post bem simples, mas que mostra alguns conceitos e detalhes da linha de comando do Docker que vale a pena saber.",
-    "url": "https://dev.arthurpedroti.com.br/criando-um-servidor-ubuntu-no-docker/",
+    "message": "Quantas vezes você já precisou criar uma pasta para um componente, depois um index.js, escrever os imports, o componente básico, depois criar um styles.js, importar o styled-components, e tantas outros códigos como testes, storybook, etc? Nesse post vou mostrar como é possível criar tudo isso com um nome variável, e com apenas uma linha de comando!",
+    "url": "https://dev.arthurpedroti.com.br/automatizando-a-criacao-de-componentes-no-react/",
     "hashtags": ""
   }
 }

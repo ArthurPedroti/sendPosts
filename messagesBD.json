@@ -19,5 +19,10 @@
     "message": "Queria testar alguns processos de instalação e configuração para o Ubuntu Server, mas não queria ter que criar uma máquina virtual nova, só queria ver se realmente não tinha nenhum detalhe que eu tinha esquecido, e pensei logo no docker, que poderia criar pra mim um container do Ubuntu bem rápido e fácil. É um post bem simples, mas que mostra alguns conceitos e detalhes da linha de comando do Docker que vale a pena saber.",
     "url": "https://dev.arthurpedroti.com.br/criando-um-servidor-ubuntu-no-docker/",
     "hashtags": ""
+  },
+  "discord": {
+    "message": "Quando estamos começando a programar e fazendo nossas primeiras aplicações para testes, chega uma hora que precisamos realmente colocar elas para rodar, e está tudo rodando perfeitamente no ambiente de desenvolvimento da nossa máquina, mas então vem a pergunta, como colocar isso para todo mundo usar? Muitas vezes não sabemos como fazer para criar um ambiente minimamente viável para que outras pessoas possam ter acesso as nossas aplicações, e eu mesmo, na primeira que vez que fui fazer isso, demorei umas duas semanas para realmente descobrir o jeito mais simples e viável de ser feito. Então nesse post, vou mostrar como configurar um servidor de maneira simples, porém eficiente, para estar rodando suas aplicações.",
+    "url": "https://dev.arthurpedroti.com.br/criando-um-servidor-de-deploy-para-suas-aplicacoes/",
+    "hashtags": ""
   }
 }]
