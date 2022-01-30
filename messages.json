@@ -1,7 +1,7 @@
 {
   "discord": {
-    "message": "Quantas vezes você já precisou criar uma pasta para um componente, depois um index.js, escrever os imports, o componente básico, depois criar um styles.js, importar o styled-components, e tantas outros códigos como testes, storybook, etc? Nesse post vou mostrar como é possível criar tudo isso com um nome variável, e com apenas uma linha de comando!",
-    "url": "https://dev.arthurpedroti.com.br/automatizando-a-criacao-de-componentes-no-react/",
+    "message": "Conforme vamos criando projetos em Node.js, percebemos que a versão do node vai atualizando e alguns projetos vão ficando nas versões passadas, o que começa a nos gerar algumas incompatibilidades, em que um servidor possui uma versão especifica do node, e todos os projetos dentro dele precisam seguir essa versão. E nessa dificuldade que entra o NVM, que nos permite utilizar várias versões do node em um mesmo ambiente.",
+    "url": "https://dev.arthurpedroti.com.br/varias-versoes-do-node-js-em-apenas-um-ambiente/",
     "hashtags": ""
   }
 }
