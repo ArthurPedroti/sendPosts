@@ -1,7 +1,7 @@
 {
   "discord": {
-    "message": "Conforme vamos criando projetos em Node.js, percebemos que a versão do node vai atualizando e alguns projetos vão ficando nas versões passadas, o que começa a nos gerar algumas incompatibilidades, em que um servidor possui uma versão especifica do node, e todos os projetos dentro dele precisam seguir essa versão. E nessa dificuldade que entra o NVM, que nos permite utilizar várias versões do node em um mesmo ambiente.",
-    "url": "https://dev.arthurpedroti.com.br/varias-versoes-do-node-js-em-apenas-um-ambiente/",
+    "message": "No começo da minha caminhada começei criando projetos bem simples em Node.js, com algumas rotas e controllers, e acredito que todo mundo começa assim, depois começamos a aprender um pouco sobre ORMs, que facilitam a nossa vida, mas conforme vamos criando e aprendendo coisas novas, nosso projeto pode acabar virando uma bela bagunça. Então vamos aprender a criar um projeto simples, mas com uma boa arquitetura e seguindo boas práticas de DDD, e que pode crescer de maneira simples e organizada. Continuando o post da semana passada, daremos continuidade a criação de toda a arquitetura e organização da nossa aplicação, criando os repositórios, serviços, controllers, rotas etc.",
+    "url": "https://dev.arthurpedroti.com.br/backend-com-node-js-express-typeorm-e-postgresql-parte-2/",
     "hashtags": ""
   }
 }
